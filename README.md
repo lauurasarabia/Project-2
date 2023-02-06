@@ -1,7 +1,7 @@
 # Project-2 - WWE Wrestlers
 Data analysis - Python, API, Web Scrapping
 
-! [logo](http://localhost:8891/files/projects/Project-2/images/logo-WWE.png)
+![logo](https://github.com/lauurasarabia/Project-2/blob/main/images/logo-WWE.png?raw=true)
 
 
 Our main available tool to carry out this project was the WWE Wrestlers personal data (name, date of birth, nº of titles, etc).
@@ -10,7 +10,7 @@ We are going to use this information in order to discover which horoscope are ea
 
 Do you think that their horoscope had something to do with their wins?
 
-! [John_Cena](http://localhost:8891/files/projects/Project-2/images/png-transparent-john-cena-wwe-raw-poemas-de-amor-professional-wrestler-the-nexus-john-cena-tshirt-logo-jersey-thumbnail.png)
+![John_Cena](https://github.com/lauurasarabia/Project-2/blob/main/images/png-transparent-john-cena-wwe-raw-poemas-de-amor-professional-wrestler-the-nexus-john-cena-tshirt-logo-jersey-thumbnail.png?raw=true)
 
 On the other hand, we are going to discover who was their adversary in their final battle via Web Scraping ("2_Scraping").
 
