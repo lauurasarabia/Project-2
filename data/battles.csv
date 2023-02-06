@@ -1,0 +1,86 @@
+,Name,Reign,Date,Belt,DOB,Horoscope,Defeated,Defeated_Horoscope
+0,Bruno Sammartino,1,17-May-63,WWE Championship,06/10,Libra,Buddy Rogers,Pisces
+1,Ivan Koloff,1,18-Jan-71,WWE Championship,25/08,Virgo,Bruno Sammartino,Libra
+2,Pedro Morales,1,8-Feb-71,WWE Championship,22/10,Libra,Ivan Koloff,Virgo
+3,Stan Stasiak,1,1-Dec-73,WWE Championship,13/04,Aries,Pedro Morales,Libra
+4,Bruno Sammartino,2,10-Dec-73,WWE Championship,06/10,Libra,Stan Stasiak,Aries
+5,Bob Backlund,2,17-Dec-79,WWE Championship,14/08,Leo,Bret Hart,Cancer
+6,The Iron Sheik,1,26-Dec-83,WWE Championship,15/03,Pisces,Bob Backlund,Leo
+7,Hulk Hogan,1,23-Jan-84,WWE Championship,11/08,Leo,The Iron Sheik,Pisces
+8,André the Giant,1,5-Feb-88,WWE Championship,19/05,Taurus,Hulk Hogan,Leo
+9,Hulk Hogan,2,2-Apr-89,WWE Championship,11/08,Leo,Randy Savage,Scorpio
+10,Hulk Hogan,3,24-Mar-91,WWE Championship,11/08,Leo,Sgt. Slaughter,Virgo
+11,The Undertaker,1,27-Nov-91,WWE Championship,24/03,Aries,Hulk Hogan,Leo
+12,Hulk Hogan,4,3-Dec-91,WWE Championship,11/08,Leo,The Undertaker,Aries
+13,Randy Savage,2,5-Apr-92,WWE Championship,15/11,Scorpio,Ric Flair,Pisces
+14,Ric Flair,2,1-Sep-92,WWE Championship,25/02,Pisces,Randy Savage,Scorpio
+15,Bret Hart,1,12-Oct-92,WWE Championship,02/07,Cancer,Ric Flair,Pisces
+16,Yokozuna,1,4-Apr-93,WWE Championship,02/10,Libra,Bret Hart,Cancer
+17,Hulk Hogan,5,4-Apr-93,WWE Championship,11/08,Leo,Yokozuna,Libra
+18,Yokozuna,2,13-Jun-93,WWE Championship,02/10,Libra,Hulk Hogan,Leo
+19,Bret Hart,2,20-Mar-94,WWE Championship,02/07,Cancer,Yokozuna,Libra
+20,Bob Backlund,2,23-Nov-94,WWE Championship,14/08,Leo,Bret Hart,Cancer
+21,Diesel,1,26-Nov-94,WWE Championship,09/07,Cancer,Bob Backlund,Leo
+22,Bret Hart,3,19-Nov-95,WWE Championship,02/07,Cancer,Diesel,Cancer
+23,Shawn Michaels,1,31-Mar-96,WWE Championship,22/07,Cancer,Bret Hart,Cancer
+24,Sycho Sid,1,17-Nov-96,WWE Championship,16/12,Sagittarius,Shawn Michaels,Cancer
+25,Shawn Michaels,2,19-Jan-97,WWE Championship,22/07,Cancer,Sycho Sid,Sagittarius
+26,Sycho Sid,2,17-Feb-97,WWE Championship,16/12,Sagittarius,Bret Hart,Cancer
+27,The Undertaker,2,23-Mar-97,WWE Championship,24/03,Aries,Sycho Sid,Sagittarius
+28,Bret Hart,5,3-Aug-97,WWE Championship,02/07,Cancer,The Undertaker,Aries
+29,Shawn Michaels,3,9-Nov-97,WWE Championship,22/07,Cancer,Bret Hart,Cancer
+30,Kane,1,28-Jun-98,WWE Championship,26/04,Taurus,Steve Austin,Sagittarius
+31,The Rock,1,15-Nov-98,WWE Championship,02/05,Taurus,Mankind,Gemini
+32,Mankind,1,29-Dec-98,WWE Championship,07/06,Gemini,The Rock,Taurus
+33,The Rock,2,24-Jan-99,WWE Championship,02/05,Taurus,Mankind,Gemini
+34,Mankind,2,26-Jan-99,WWE Championship,07/06,Gemini,The Rock,Taurus
+35,The Rock,3,15-Feb-99,WWE Championship,02/05,Taurus,Mankind,Gemini
+36,The Undertaker,3,23-May-99,WWE Championship,24/03,Aries,Steve Austin,Sagittarius
+37,Triple H,1,23-Aug-99,WWE Championship,27/07,Leo,Mankind,Gemini
+38,Vince McMahon,1,14-Sep-99,WWE Championship,24/08,Virgo,Triple H,Leo
+39,The Rock,4,30-Apr-00,WWE Championship,02/05,Taurus,Triple H,Leo
+40,Triple H,4,21-May-00,WWE Championship,27/07,Leo,The Rock,Taurus
+41,Kurt Angle,1,22-Oct-00,WWE Championship,09/12,Sagittarius,The Rock,Taurus
+42,The Rock,6,25-Feb-01,WWE Championship,02/05,Taurus,Kurt Angle,Sagittarius
+43,Kurt Angle,2,23-Sep-01,WWE Championship,09/12,Sagittarius,Steve Austin,Sagittarius
+44,Chris Jericho,1,9-Dec-01,WWE Championship,09/11,Scorpio,Steve Austin,Sagittarius
+45,Triple H,5,17-Mar-02,WWE Championship,27/07,Leo,Chris Jericho,Scorpio
+46,The Undertaker,4,19-May-02,WWE Championship,24/03,Aries,Hulk Hogan,Leo
+47,Brock Lesnar,1,25-Aug-02,WWE Championship,12/07,Cancer,The Rock,Taurus
+48,Brock Lesnar,2,30-Mar-03,WWE Championship,12/07,Cancer,Kurt Angle,Sagittarius
+49,Brock Lesnar,3,16-Sep-03,WWE Championship,12/07,Cancer,Kurt Angle,Sagittarius
+50,Eddie Guerrero,1,15-Feb-04,WWE Championship,09/10,Libra,Brock Lesnar,Cancer
+51,Edge,1,8-Jan-06,WWE Championship,30/10,Scorpio,John Cena,Taurus
+52,John Cena,2,29-Jan-06,WWE Championship,23/04,Taurus,Edge,Scorpio
+53,Rob Van Dam,1,11-Jun-06,WWE Championship,18/12,Sagittarius,John Cena,Taurus
+54,John Cena,3,17-Sep-06,WWE Championship,23/04,Taurus,Edge,Scorpio
+55,Triple H,6,7-Oct-07,WWE Championship,27/07,Leo,Randy Orton,Aries
+56,Randy Orton,2,7-Oct-07,WWE Championship,01/04,Aries,Triple H,Leo
+57,John Cena,4,13-Sep-09,WWE Championship,23/04,Taurus,Randy Orton,Aries
+58,Randy Orton,5,4-Oct-09,WWE Championship,01/04,Aries,John Cena,Taurus
+59,John Cena,5,25-Oct-09,WWE Championship,23/04,Taurus,Randy Orton,Aries
+60,Sheamus,1,13-Dec-09,WWE Championship,28/01,Aquarius,John Cena,Taurus
+61,The Miz,1,22-Nov-10,WWE Championship,08/10,Libra,Randy Orton,Aries
+62,CM Punk,1,17-Jul-11,WWE Championship,26/10,Scorpio,John Cena,Taurus
+63,Rey Mysterio,1,25-Jul-11,WWE Championship,11/12,Sagittarius,The Miz,Libra
+64,John Cena,9,25-Jul-11,WWE Championship,23/04,Taurus,Rey Mysterio,Sagittarius
+65,CM Punk,1,14-Aug-11,WWE Championship,26/10,Scorpio,John Cena,Taurus
+66,CM Punk,2,20-Nov-11,WWE Championship,26/10,Scorpio,John Cena,Taurus
+67,Ric Flair,2,9-Apr-78,WWE United States Championship,25/02,Pisces,Randy Savage,Scorpio
+68,Steve Austin,1,27-Dec-93,WWE United States Championship,18/12,Sagittarius,Shawn Michaels,Cancer
+69,Steve Austin,2,18-Sep-94,WWE United States Championship,18/12,Sagittarius,Kane,Taurus
+70,Eddie Guerrero,1,29-Dec-96,WWE United States Championship,09/10,Libra,Brock Lesnar,Cancer
+71,Bret Hart,1,20-Jul-98,WWE United States Championship,02/07,Cancer,Ric Flair,Pisces
+72,Bret Hart,2,13-Aug-98,WWE United States Championship,02/07,Cancer,Yokozuna,Libra
+73,Bret Hart,3,30-Nov-98,WWE United States Championship,02/07,Cancer,Diesel,Cancer
+74,Kurt Angle,1,22-Oct-01,WWE United States Championship,09/12,Sagittarius,The Rock,Taurus
+75,Edge,1,12-Nov-01,WWE United States Championship,30/10,Scorpio,John Cena,Taurus
+76,John Cena,2,3-Oct-04,WWE United States Championship,23/04,Taurus,Edge,Scorpio
+77,John Cena,3,16-Nov-04,WWE United States Championship,23/04,Taurus,Edge,Scorpio
+78,The Miz,1,5-Oct-09,WWE United States Championship,08/10,Libra,Randy Orton,Aries
+79,Bret Hart,5,17-May-10,WWE United States Championship,02/07,Cancer,The Undertaker,Aries
+80,Sheamus,1,14-Mar-11,WWE United States Championship,28/01,Aquarius,John Cena,Taurus
+81,John Cena,4,29-Mar-15,WWE United States Championship,23/04,Taurus,Randy Orton,Aries
+82,John Cena,5,20-Sep-15,WWE United States Championship,23/04,Taurus,Randy Orton,Aries
+83,Chris Jericho,1,9-Jan-17,WWE United States Championship,09/11,Scorpio,Steve Austin,Sagittarius
+84,Rey Mysterio,1,19-May-19,WWE United States Championship,11/12,Sagittarius,The Miz,Libra
