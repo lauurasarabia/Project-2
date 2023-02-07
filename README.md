@@ -6,7 +6,7 @@ Data analysis - Python, API, Web Scrapping
 
 The main available tool to carry out this project was the WWE Wrestlers personal data (name, date of birth, nº of titles, etc).
 
-# - 1_WWE Wrestlers
+# - 1. WWE Wrestlers
 Database has been cleaned and prepared for being analysed in this notebook. 
 These are the steps we have followed for cleaning: 
 * Drop columns we are not going to use
@@ -18,7 +18,7 @@ Do you think that their horoscope had something to do with their wins?
 
 ![John_Cena](https://github.com/lauurasarabia/Project-2/blob/main/images/png-transparent-john-cena-wwe-raw-poemas-de-amor-professional-wrestler-the-nexus-john-cena-tshirt-logo-jersey-thumbnail.png?raw=true)
 
-# - 2_Scraping
+# - 2. Scraping
 On the other hand, Web Scraping has been used to know who was their adversary in their final battle.
 Steps:
 * Look for the information of the defeated person in battle in a website
@@ -27,15 +27,17 @@ Steps:
 * Merge, reset index
 * Extract horoscope values from WWE_Wrestlers table and apply them to adversaries column
 
-# - 3_Visualizations
+# - 3. Visualizations
  With all this data we navigate through the following visualizations:
  
  Who are our TOP 5 Wrestlers?
  
+ ![top5](https://github.com/lauurasarabia/Project-2/blob/main/images/top_5_classification.png?raw=true)
  
  
  Which is the strongest horoscope?
  
+ ![strongest](https://github.com/lauurasarabia/Project-2/blob/main/images/strongest_horoscope.png?raw=true)
  
  
  Taurus vs Sagittarius battles
@@ -43,7 +45,7 @@ Steps:
 
 
  
-# - 4_API
+# - 4. API
 We found an API which takes both names (winner and defeated) and makes a love percentage compatibility between them. So why not use it for our analysis? We have created a new column in our DataFrame with the results.
 
 What are you waiting for? Go explore it!🧐
